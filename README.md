@@ -5,7 +5,7 @@ Code from anywhere with AI assistance on your mobile device.
 ## Installation
 
 ```bash
-npm install -g codebridge
+npm install -g @cerulin/chell
 ```
 
 ## Prerequisites
@@ -21,20 +21,20 @@ It is highly recommended (but optional) that you have the respective AI CLI tool
 Start a coding session with your preferred AI assistant:
 
 ```bash
-codebridge claude
-codebridge codex
-codebridge gemini
+chell claude
+chell codex
+chell gemini
 ```
 
-A QR code will appear in your terminal. Scan it with the CodeBridge mobile app to start coding.
+A QR code will appear in your terminal. Scan it with the Chell mobile app to start coding.
 
 ## Daemon
 
 For the best experience, ensure the daemon is running. This enables seamless mobile terminal connection.
 
 ```bash
-codebridge daemon start
-codebridge daemon stop
+chell daemon start
+chell daemon stop
 ```
 
 The daemon starts automatically when you launch a session.
