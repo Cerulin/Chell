@@ -48,6 +48,8 @@ The daemon starts automatically when you launch a session.
 
 If you need support, feel free to [create a GitHub issue](https://github.com/Cerulin/Chell/issues) or [join our Discord](https://discord.gg/2gwYUwve58) for direct support from the development team or to submit feature requests.
 
+To contact us directly, please email us at contact@cerulin.com
+
 ## License
 
 MIT
