@@ -46,7 +46,7 @@ The daemon starts automatically when you launch a session.
 
 ## Support
 
-For Apple's Support URL requirement and general help, see [SUPPORT.md](./SUPPORT.md).
+See [SUPPORT.md](./SUPPORT.md) for all support options.
 
 - Join our Discord for quick questions: https://discord.gg/2gwYUwve58  
 - Open GitHub issues for bugs/feature requests: https://github.com/Cerulin/Chell/issues  

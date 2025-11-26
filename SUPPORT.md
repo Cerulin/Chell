@@ -1,6 +1,6 @@
 # Chell Support
 
-If you need help with Chell, use one of the options below. These channels satisfy Apple's Support URL requirements and are actively monitored by the team.
+If you need help with Chell, use one of the options below. These channels are actively monitored by the team.
 
 ## Quick help
 - Join our community Discord for real-time questions and onboarding: https://discord.gg/2gwYUwve58
