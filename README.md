@@ -46,9 +46,11 @@ The daemon starts automatically when you launch a session.
 
 ## Support
 
-If you need support, feel free to [create a GitHub issue](https://github.com/Cerulin/Chell/issues) or [join our Discord](https://discord.gg/2gwYUwve58) for direct support from the development team or to submit feature requests.
+For Apple's Support URL requirement and general help, see [SUPPORT.md](./SUPPORT.md).
 
-To contact us directly, please email us at contact@cerulin.com
+- Join our Discord for quick questions: https://discord.gg/2gwYUwve58  
+- Open GitHub issues for bugs/feature requests: https://github.com/Cerulin/Chell/issues  
+- Email us directly: contact@cerulin.com
 
 ## License
 
