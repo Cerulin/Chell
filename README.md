@@ -26,6 +26,14 @@ chell codex
 chell gemini
 ```
 
+To run Claude Code in `--dangerously-skip-permissions` mode, use the `--yolo` flag:
+
+```bash
+chell claude --yolo
+```
+
+For cloud environments, visit "Experimental Flags" in the Account Settings menu on the iOS app to change the permission mode.
+
 A QR code will appear in your terminal. Scan it with the Chell mobile app to start coding.
 
 ## Daemon
