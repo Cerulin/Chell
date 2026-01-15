@@ -1,8 +1,6 @@
-<h1 align="center">Chell</h1>
+# Chell
 
-<p align="center">
 An integrated workspace for your AI coding agents. Manage all your agents from one organized spot, monitor and continue prompts from your phone, with built-in terminals and file editors to stay productive when away from your desk. End-to-end encrypted.
-</p>
 
 <p align="center">
   <img src="assets/chellgif.gif" alt="Chell Demo">
@@ -10,7 +8,10 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 <p align="center">
   <a href="https://discord.gg/r9putKU2Dp"><img src="https://img.shields.io/discord/1404665022440800397?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://apps.apple.com/au/app/chell/id6754867036"><img src="https://img.shields.io/badge/App_Store-Download-000000?logo=apple&logoColor=white" alt="App Store"></a>
 </p>
+
+*\*Google Play Store build pending for release*
 
 ## Installation
 
