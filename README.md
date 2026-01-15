@@ -12,8 +12,6 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 <p align="center">
   <a href="https://apps.apple.com/au/app/chell/id6754867036"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50"></a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google_Play-Coming_Soon*-414141?logo=googleplay&logoColor=white&style=for-the-badge" alt="Google Play Coming Soon">
 </p>
 
 *\*Google Play Store build pending for release*
@@ -65,6 +63,10 @@ It is required to have one CLI installed first:
 - Request a terminal from your phone
 - Sync chats across all devices (iPad, iPhone, Desktop, Cloud)
 - Seamless Chell-Cloud handoff when your computer is asleep
+
+## Our Commitment to Safe Data Practices
+
+Your code is your code. All Chell products are end-to-end encrypted, meaning we can never see your code, prompts, or conversations. Your data stays between your devices and your AI agents—nobody else.
 
 ## Support
 
