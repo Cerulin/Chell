@@ -1,27 +1,39 @@
 # Chell
 
-[![Discord](https://img.shields.io/discord/1302057230498734132?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/r9putKU2Dp)
+[![Discord](https://img.shields.io/discord/1404665022440800397?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/r9putKU2Dp)
 
 Code from anywhere with AI assistance on your mobile device. End-to-end encrypted.
 
-<video src="chell-intro.mp4" autoplay loop muted playsinline></video>
+![Chell Demo](assets/chellgif.gif)
 
 ## Installation
 
-```bash
-npm install -g @cerulin/chell
-```
+[![Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest)
+[![Linux](https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black)](https://github.com/Cerulin/Chell/releases/latest)
+
+| Platform | Files |
+|----------|-------|
+| Windows | `chell-desktop-x.x.x-setup.exe` / `chell-desktop-x.x.x-portable.exe` |
+| macOS (Apple Silicon) | `chell-desktop-x.x.x-arm64.dmg` |
+| macOS (Intel) | `chell-desktop-x.x.x-x64.dmg` |
+| Linux | `Chell-x.x.x.AppImage` |
+
+### What if I don't want the Desktop app, but I want a CLI?
+
+Our installer walks you through these steps. We plan on removing the NodeJS dependency in our roadmap.
+
+- **[NodeJS 20+](https://nodejs.org/)**
+- `npm install -g @cerulin/chell`
 
 ## Prerequisites
 
-We require NodeJS and `npm install -g @cerulin/chell` - our installer helps walk you through this. We plan on moving away from NodeJS dependency in our roadmap.
+It is required to have one CLI installed first:
 
-It is highly recommended (but optional) that you have the respective AI CLI tools installed first:
-
-- **[Claude Code](https://github.com/anthropics/claude-code)**: `npm install -g @anthropic-ai/claude-code`
-- **[OpenAI Codex](https://github.com/openai/codex)**: Install the Codex CLI
-- **[Google Gemini](https://github.com/google-gemini/gemini-cli)**: Install the Gemini CLI
-- **[LM Studio](https://lmstudio.ai/)**: For local LLMs
+- **[Claude Code](https://github.com/anthropics/claude-code)**
+- **[OpenAI Codex](https://github.com/openai/codex)**
+- **[Google Gemini](https://github.com/google-gemini/gemini-cli)**
+- **[LM Studio](https://lmstudio.ai/)**
 
 ## Usage
 
@@ -40,11 +52,6 @@ It is highly recommended (but optional) that you have the respective AI CLI tool
 - Sync chats across all devices (iPad, iPhone, Desktop, Cloud)
 - Seamless Chell-Cloud handoff when your computer is asleep
 
-## Requirements
-
-- Node.js 20.0.0 or higher
-- At least one AI assistant CLI installed
-
 ## Support
 
 See [SUPPORT.md](./SUPPORT.md) for all support options.
@@ -55,4 +62,4 @@ See [SUPPORT.md](./SUPPORT.md) for all support options.
 
 ## License
 
-MIT
+UNLICENSED
