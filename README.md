@@ -8,7 +8,12 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 <p align="center">
   <a href="https://discord.gg/r9putKU2Dp"><img src="https://img.shields.io/discord/1404665022440800397?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://apps.apple.com/au/app/chell/id6754867036"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="20"></a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/au/app/chell/id6754867036"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50"></a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Google_Play-Coming_Soon*-414141?logo=googleplay&logoColor=white&style=for-the-badge" alt="Google Play Coming Soon">
 </p>
 
 *\*Google Play Store build pending for release*
