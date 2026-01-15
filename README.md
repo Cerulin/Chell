@@ -18,22 +18,16 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 ## Installation
 
-[![Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest)
-[![Linux](https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black)](https://github.com/Cerulin/Chell/releases/latest)
-
-| Platform | Files |
-|----------|-------|
-| Windows | `chell-desktop-x.x.x-setup.exe` / `chell-desktop-x.x.x-portable.exe` |
-| macOS (Apple Silicon) | `chell-desktop-x.x.x-arm64.dmg` |
-| macOS (Intel) | `chell-desktop-x.x.x-x64.dmg` |
-| Linux | `Chell-x.x.x.AppImage` |
+[![Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-setup.exe)
+[![macOS (Apple Silicon)](https://img.shields.io/badge/macOS_ARM-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-arm64.dmg)
+[![macOS (Intel)](https://img.shields.io/badge/macOS_Intel-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x64.dmg)
+[![Linux](https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x86_64.AppImage)
 
 Requires **[NodeJS 20+](https://nodejs.org/)**. Don't worry about downloading this if you don't have it, we'll help you while you're in the app.
 
 ### What if I don't want the Desktop app, but I want a CLI?
 
-We plan on removing the NodeJS dependency in our roadmap.
+We're working on distributing standalone binaries while maintaining npm support.
 
 - **[NodeJS 20+](https://nodejs.org/)**
 - `npm install -g @cerulin/chell`
@@ -53,8 +47,8 @@ It is required to have one CLI installed first:
 
 ## Roadmap
 
-- Remove NodeJS dependency
-- Full Codex and Gemini integration
+- Standalone CLI binaries (no NodeJS required)
+- Full Codex, Gemini, and OpenCode integration
 - Resume terminal/conversation fully on app or computer restart
 - Replacing QR Code authentication with global email/pass authentication
 - Multi-tab terminal interface
