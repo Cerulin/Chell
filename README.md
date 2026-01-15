@@ -18,10 +18,12 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 ## Installation
 
-[![Windows](https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-setup.exe)
-[![macOS (Apple Silicon)](https://img.shields.io/badge/macOS_ARM-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-arm64.dmg)
-[![macOS (Intel)](https://img.shields.io/badge/macOS_Intel-Download-000000?logo=apple&logoColor=white)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x64.dmg)
-[![Linux](https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black)](https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x86_64.AppImage)
+<p align="center">
+  <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white" alt="Windows"></a>
+  <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-arm64.dmg"><img src="https://img.shields.io/badge/macOS_ARM-Download-000000?logo=apple&logoColor=white" alt="macOS ARM"></a>
+  <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x64.dmg"><img src="https://img.shields.io/badge/macOS_Intel-Download-000000?logo=apple&logoColor=white" alt="macOS Intel"></a>
+  <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x86_64.AppImage"><img src="https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black" alt="Linux"></a>
+</p>
 
 Requires **[NodeJS 20+](https://nodejs.org/)**. Don't worry about downloading this if you don't have it, we'll help you while you're in the app.
 
