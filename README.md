@@ -60,8 +60,6 @@ Chell sends push notifications to your mobile device when Claude requests permis
 
 ```bash
 chell settings notifications           # Show current setting
-chell settings notifications local     # Only notify in local/interactive mode
-chell settings notifications remote    # Only notify in remote mode
 chell settings notifications both      # Notify in both modes (default)
 chell settings notifications neither   # Never send notifications
 ```
