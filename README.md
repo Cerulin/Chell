@@ -1,10 +1,16 @@
-# Chell
+<h1 align="center">Chell</h1>
 
-[![Discord](https://img.shields.io/discord/1404665022440800397?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/r9putKU2Dp)
+<p align="center">
+An integrated workspace for your AI coding agents. Manage all your agents from one organized spot, monitor and continue prompts from your phone, with built-in terminals and file editors to stay productive when away from your desk. End-to-end encrypted.
+</p>
 
-Code from anywhere with AI assistance on your mobile device. End-to-end encrypted.
+<p align="center">
+  <img src="assets/chellgif.gif" alt="Chell Demo">
+</p>
 
-![Chell Demo](assets/chellgif.gif)
+<p align="center">
+  <a href="https://discord.gg/r9putKU2Dp"><img src="https://img.shields.io/discord/1404665022440800397?color=5865F2&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 ## Installation
 
@@ -19,9 +25,11 @@ Code from anywhere with AI assistance on your mobile device. End-to-end encrypte
 | macOS (Intel) | `chell-desktop-x.x.x-x64.dmg` |
 | Linux | `Chell-x.x.x.AppImage` |
 
+Requires **[NodeJS 20+](https://nodejs.org/)**. Don't worry about downloading this if you don't have it, we'll help you while you're in the app.
+
 ### What if I don't want the Desktop app, but I want a CLI?
 
-Our installer walks you through these steps. We plan on removing the NodeJS dependency in our roadmap.
+We plan on removing the NodeJS dependency in our roadmap.
 
 - **[NodeJS 20+](https://nodejs.org/)**
 - `npm install -g @cerulin/chell`
