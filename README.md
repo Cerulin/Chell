@@ -18,6 +18,8 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
 
 ## Installation
 
+Click a button below to install the application:
+
 <p align="center">
   <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-setup.exe"><img src="https://img.shields.io/badge/Windows-Download-0078D4?logo=windows&logoColor=white" alt="Windows"></a>
   <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-arm64.dmg"><img src="https://img.shields.io/badge/macOS_ARM-Download-000000?logo=apple&logoColor=white" alt="macOS ARM"></a>
