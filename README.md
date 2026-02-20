@@ -25,14 +25,24 @@ An integrated workspace for your AI coding agents. Manage all your agents from o
   <a href="https://github.com/Cerulin/Chell/releases/latest/download/chell-desktop-x86_64.AppImage"><img src="https://img.shields.io/badge/Linux-Download-FCC624?logo=linux&logoColor=black" alt="Linux"></a>
 </p>
 
-Requires **[NodeJS 20+](https://nodejs.org/)**. Don't worry about downloading this if you don't have it, we'll help you while you're in the app.
-
 ### What if I don't want the Desktop app, but I want a CLI?
 
-We're working on distributing standalone binaries while maintaining npm support.
+**Linux / macOS:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/Cerulin/Chell-CLI-releases/main/install/install.sh | bash
+```
 
-- **[NodeJS 20+](https://nodejs.org/)**
-- `npm install -g @cerulin/chell`
+**Windows (PowerShell):**
+```powershell
+irm https://raw.githubusercontent.com/Cerulin/Chell-CLI-releases/main/install/install.ps1 | iex
+```
+
+**Windows (Command Prompt):**
+```cmd
+curl -fsSL https://raw.githubusercontent.com/Cerulin/Chell-CLI-releases/main/install/install.cmd -o install.cmd && install.cmd && del install.cmd
+```
+
+No dependencies required — Chell CLI is a standalone binary. Run the same install command again to update.
 
 ## Prerequisites
 
@@ -49,7 +59,6 @@ It is required to have one CLI installed first:
 
 ## Roadmap
 
-- Standalone CLI binaries (no NodeJS required)
 - Full Codex, Gemini, and OpenCode integration
 - Resume terminal/conversation fully on app or computer restart
 - Replacing QR Code authentication with global email/pass authentication
