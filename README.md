@@ -53,7 +53,7 @@ It is required to have one CLI installed first:
 - **[Claude Code](https://github.com/anthropics/claude-code)**
 - **[OpenAI Codex](https://github.com/openai/codex)**
 - **[Google Gemini](https://github.com/google-gemini/gemini-cli)**
-- **[LM Studio](https://lmstudio.ai/)**
+
 
 ## Usage
 
