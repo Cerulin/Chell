@@ -71,6 +71,13 @@ It is required to have one CLI installed first:
 - Sync chats across all devices (iPad, iPhone, Desktop, Cloud)
 - Seamless Chell-Cloud handoff when your computer is asleep
 
+## Repositories
+
+- **[Chell-CLI](https://github.com/Cerulin/Chell-CLI)** — Standalone CLI for managing AI coding agents from your terminal
+  - **[Chell-CLI-releases](https://github.com/Cerulin/Chell-CLI-releases)** — Pre-built binaries and install scripts
+- **[Chell-MobileApp](https://github.com/Cerulin/Chell-MobileApp)** — React Native mobile app (iOS & Android)
+- **[Chell-Relay](https://github.com/Cerulin/Chell-Relay)** — Backend relay server
+
 ## Our Commitment to Safe Data Practices
 
 Your code is your code. All Chell products are end-to-end encrypted, meaning we can never see your code, prompts, or conversations. Your data stays between your devices and your AI agents—nobody else.
